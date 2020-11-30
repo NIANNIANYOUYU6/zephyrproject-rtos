@@ -1,0 +1,2 @@
+# zephyrproject-rtos
+WEST
